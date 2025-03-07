@@ -1,3 +1,6 @@
+# Difference between Basic and Distributed representation Language models :
+![Difference-between-localist-and-distributed-representations](https://github.com/user-attachments/assets/231a124a-dfbc-42c0-9ae0-18ea04d3895b)
+
 # Understanding Distributed Representations
 Distributed representations are a fundame7ntal concept in the field of machine learning and natural language processing (NLP). They refer to a way of representing data, typically words or phrases, as continuous vectors in a high-dimensional space. Unlike local representations, where each entity is represented by a unique identifier in an isolated manner (such as one-hot encoding), distributed representations capture a notion of similarity and semantic meaning by allowing an entity to be represented by a pattern of values across many dimensions.
 
